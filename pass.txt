@@ -1,0 +1,5 @@
+#igore this file 
+#file not to be uploaded to git
+
+user="akash"
+pass="12345678"
